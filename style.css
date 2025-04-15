@@ -68,6 +68,8 @@ input[type="search"] {
 
 .header-logo {
     background-image: url(images/logo.svg);
+    background-size: 100% auto;
+    background-position: center;
     flex: 0 0 100px;
     height: 40px;
 }
