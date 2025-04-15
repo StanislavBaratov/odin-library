@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="36.597595"
+   viewBox="0 0 26.458333 9.6831132"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="4.664845"
+       y="5.0236788"
+       width="90.785057"
+       height="44.976322"
+       id="rect1" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(0.27960772,-1.7730262)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.29096656,-0.06916273,0.06916273,0.29096656,-1.9123258,8.6917171)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.6003px;line-height:0;font-family:'Golden Avocado';-inkscape-font-specification:'Golden Avocado';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:#000000;fill-opacity:1;stroke:none;stroke-linejoin:bevel"><tspan
+         x="7.3244958"
+         y="7.6517163"
+         id="tspan2">Library App</tspan></text>
+  </g>
+</svg>
